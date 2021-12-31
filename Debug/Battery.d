@@ -1,5 +1,4 @@
-BTD.d BTD.o: .././BTD.cpp .././BTD.h .././Motor.h .././Battery.h \
- .././func.h \
+Battery.d Battery.o: .././Battery.cpp .././Battery.h .././func.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\io.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\sfr_defs.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\inttypes.h \
@@ -20,10 +19,6 @@ BTD.d BTD.o: .././BTD.cpp .././BTD.h .././Motor.h .././Battery.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay_basic.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\string.h
-
-.././BTD.h:
-
-.././Motor.h:
 
 .././Battery.h:
 
